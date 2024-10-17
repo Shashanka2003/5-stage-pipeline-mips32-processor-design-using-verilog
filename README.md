@@ -25,3 +25,9 @@ This repository contains the Verilog implementation of a 5-stage pipeline for a 
 - **Hazard Avoidance**: Implement structural design techniques for data forwarding and pipeline hazard resolution.
 - **Extended Instruction Set**: Expand the instruction set to cover additional operations.
 - **Synthesis**: Integrate synthesis tools for FPGA/ASIC implementation.
+
+## REFERENCE
+    NPTEL
+    Hardware modeling using verilog
+    Prof.Indranil Sen Gupta
+    https://archive.nptel.ac.in/courses/106/105/106105165/
